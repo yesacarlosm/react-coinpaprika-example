@@ -1,0 +1,14 @@
+.main {
+  text-align: center;
+  padding-left: 10em;
+  padding-right: 10em;
+  padding-top: 3em;
+}
+
+@media only screen and (max-width: 800px) {
+  .main {
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
